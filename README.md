@@ -1,6 +1,7 @@
 # n-queens
 
 - Intel(R) Core(TM)2 Duo CPU     L9400  @ 1.86GHz
+- Debian GNU/Linux 9.2 (stretch)
 - gcc version 6.3.0 20170516 (Debian 6.3.0-18)
 - clang version 3.8.1-24 (tags/RELEASE_381/final)
 - Mono JIT compiler version 4.6.2 (Debian 4.6.2.7+dfsg-1)
